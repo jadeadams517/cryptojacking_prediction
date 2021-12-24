@@ -15,3 +15,12 @@ Here are the papers:
 
 'CoinPolice: Detecting Hidden Cryptojacking Attacks with
 Neural Networks' https://arxiv.org/pdf/2006.10861.pdf
+
+
+# Data Reproduceability
+
+I accessed the data from Kaggle. The original source is undisclosed; however, it comes from information produced by a university, the Informatics Institute of Technology. Here is the link:
+
+https://www.kaggle.com/keshanijayasinghe/cryptojacking-attack-timeseries-dataset
+
+It consists of 3 datasets, the normal, the abnormal, and the combined data.
